@@ -1,4 +1,8 @@
 import numpy as np
+import sys
+
+nmax0 = sys.argv[1]
+nmax0 = int(nmax0)
 
 def fibonacci(nmax):
     fn = np.zeros(nmax,dtype="int")
@@ -10,5 +14,4 @@ def fibonacci(nmax):
 
     return fn
 
-
-print fibonacci(10)
+print fibonacci(nmax0)
