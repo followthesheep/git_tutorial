@@ -9,5 +9,5 @@ def fib(n):
 print "Li-Wei"
 
 
-#print fib(4)
+print 'Sarah thinks Li-Wei is awesome!'
 
