@@ -6,7 +6,7 @@ def fib(n):
     else:
         return 1
 
-print "Li-Wei"
+print "Li-Wei and Sarah are roommates <3 "
 
 
 print 'Sarah thinks Li-Wei is awesome!'
