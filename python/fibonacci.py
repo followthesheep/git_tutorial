@@ -6,6 +6,8 @@ def fib(n):
     else:
         return 1
 
+print "Li-Wei"
+
 
 #print fib(4)
 
