@@ -7,5 +7,5 @@ def fib(n):
         return 1
 
 
-#print fib(4)
+print 'Sarah thinks Li-Wei is awesome!'
 
