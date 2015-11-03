@@ -17,3 +17,11 @@ def getClosestFib(x):
     deltas = np.abs(seq - x)
     return seq[np.argmin(deltas)]
 
+def testStuff:
+    getNthFib(0)
+    getNthFib(-1)
+    getNthFib(100)
+
+    getClosestFib(0)
+    getClosestFib(-1)
+    getClosestFib(100)
